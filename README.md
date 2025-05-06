@@ -22,7 +22,7 @@
         <img src="https://img.shields.io/badge/About%20Me-%20Profile-blue?style=for-the-badge" alt="About Me" />
         <p style="max-width:300px; text-align:left;">
           🌱 Full-stack <strong>MERN</strong> developer<br/>
-          🎓 B.Tech in Computer Engineering<br/>
+          🎓 B.Tech in ECE<br/>
           📫 <a href="mailto:pj2003delhi@gmail.com">pj2003delhi@gmail.com</a><br/>
           🌍 Based in Delhi, India
         </p>

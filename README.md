@@ -17,16 +17,16 @@
 
 ### 💻 Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="React"/>
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css" alt="Tailwind CSS"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=40" alt="JavaScript" height="60"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&logoWidth=40" alt="React" height="60"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&logoWidth=40" alt="Node.js" height="60"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&logoWidth=40" alt="Express.js" height="60"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&logoWidth=40" alt="MongoDB" height="60"/>
+  <img src="https://img.shields.io/badge/MySQL-003545?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=40" alt="MySQL" height="60"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=40" alt="HTML5" height="60"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=40" alt="CSS3" height="60"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&logoWidth=40" alt="Tailwind CSS" height="60"/>
 </p>
 
 ---

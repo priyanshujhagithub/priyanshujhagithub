@@ -5,7 +5,7 @@
 
 <!-- Title & Subtitle -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/priyanshujhagithub/priyanshujhagithub/master/assets/devices.svg" alt="devices" width="40px" />
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80-DEVICES-blue?style=for-the-badge" alt="devices" height="40px"/>
   &nbsp;Hi, I’m <span style="color:#00D1FF">Priyanshu Jha</span>
 </h1>
 <p align="center">

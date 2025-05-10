@@ -32,8 +32,6 @@
         <p style="max-width:300px; text-align:left;">
           💻 Building scalable web apps with Node.js & Express<br/>
           🎨 Crafting UIs with React & TailwindCSS<br/>
-          ☁️ Deploying on AWS & Vercel<br/>
-          📦 Containerizing with Docker
         </p>
       </td>
     </tr>

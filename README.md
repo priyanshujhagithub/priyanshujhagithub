@@ -99,7 +99,6 @@
 
 * 🚀 Building performant, user-centric web apps  
 * 🎯 Continuously leveling up via open-source contributions  
-* 🤝 Mentoring aspiring devs in my community
 
 ---
 
